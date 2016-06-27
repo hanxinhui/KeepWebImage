@@ -1,0 +1,383 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4B78A5011D20C8C000BD011F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78A5001D20C8C000BD011F /* main.m */; };
+		4B78A5041D20C8C000BD011F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78A5031D20C8C000BD011F /* AppDelegate.m */; };
+		4B78A5071D20C8C000BD011F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B78A5061D20C8C000BD011F /* ViewController.m */; };
+		4B78A50A1D20C8C000BD011F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A5081D20C8C000BD011F /* Main.storyboard */; };
+		4B78A50D1D20C8C000BD011F /* KeepWebImage.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4B78A50B1D20C8C000BD011F /* KeepWebImage.xcdatamodeld */; };
+		4B78A50F1D20C8C000BD011F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A50E1D20C8C000BD011F /* Assets.xcassets */; };
+		4B78A5121D20C8C000BD011F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A5101D20C8C000BD011F /* LaunchScreen.storyboard */; };
+		4B78A51A1D20CB8F00BD011F /* photo.html in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A5191D20CB8F00BD011F /* photo.html */; };
+		4B78A5221D20CB9700BD011F /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A51C1D20CB9700BD011F /* 2.jpg */; };
+		4B78A5231D20CB9700BD011F /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A51D1D20CB9700BD011F /* 3.jpg */; };
+		4B78A5241D20CB9700BD011F /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A51E1D20CB9700BD011F /* 4.jpg */; };
+		4B78A5251D20CB9700BD011F /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A51F1D20CB9700BD011F /* 5.jpg */; };
+		4B78A5261D20CB9700BD011F /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A5201D20CB9700BD011F /* 7.jpg */; };
+		4B78A5271D20CB9700BD011F /* bj.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A5211D20CB9700BD011F /* bj.png */; };
+		4B78A5291D20CB9E00BD011F /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A5281D20CB9E00BD011F /* 6.jpg */; };
+		4B78A52B1D20CBA400BD011F /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B78A52A1D20CBA400BD011F /* 1.jpg */; };
+		4B78A54C1D20D59300BD011F /* keepImage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B78A54B1D20D59300BD011F /* keepImage.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4B78A4FC1D20C8C000BD011F /* KeepWebImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KeepWebImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B78A5001D20C8C000BD011F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4B78A5021D20C8C000BD011F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4B78A5031D20C8C000BD011F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		4B78A5051D20C8C000BD011F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		4B78A5061D20C8C000BD011F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4B78A5091D20C8C000BD011F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4B78A50C1D20C8C000BD011F /* KeepWebImage.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = KeepWebImage.xcdatamodel; sourceTree = "<group>"; };
+		4B78A50E1D20C8C000BD011F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4B78A5111D20C8C000BD011F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4B78A5131D20C8C000BD011F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B78A5191D20CB8F00BD011F /* photo.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = photo.html; sourceTree = "<group>"; };
+		4B78A51C1D20CB9700BD011F /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		4B78A51D1D20CB9700BD011F /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		4B78A51E1D20CB9700BD011F /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		4B78A51F1D20CB9700BD011F /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		4B78A5201D20CB9700BD011F /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = "<group>"; };
+		4B78A5211D20CB9700BD011F /* bj.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bj.png; sourceTree = "<group>"; };
+		4B78A5281D20CB9E00BD011F /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
+		4B78A52A1D20CBA400BD011F /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		4B78A52D1D20CEA600BD011F /* WebPhotoKeep.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebPhotoKeep.h; sourceTree = "<group>"; };
+		4B78A54B1D20D59300BD011F /* keepImage.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = keepImage.a; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4B78A4F91D20C8C000BD011F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B78A54C1D20D59300BD011F /* keepImage.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4B78A4F31D20C8C000BD011F = {
+			isa = PBXGroup;
+			children = (
+				4B78A4FE1D20C8C000BD011F /* KeepWebImage */,
+				4B78A4FD1D20C8C000BD011F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4B78A4FD1D20C8C000BD011F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4B78A4FC1D20C8C000BD011F /* KeepWebImage.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4B78A4FE1D20C8C000BD011F /* KeepWebImage */ = {
+			isa = PBXGroup;
+			children = (
+				4B78A54B1D20D59300BD011F /* keepImage.a */,
+				4B78A52D1D20CEA600BD011F /* WebPhotoKeep.h */,
+				4B78A51B1D20CB9700BD011F /* img */,
+				4B78A5191D20CB8F00BD011F /* photo.html */,
+				4B78A5021D20C8C000BD011F /* AppDelegate.h */,
+				4B78A5031D20C8C000BD011F /* AppDelegate.m */,
+				4B78A5051D20C8C000BD011F /* ViewController.h */,
+				4B78A5061D20C8C000BD011F /* ViewController.m */,
+				4B78A5081D20C8C000BD011F /* Main.storyboard */,
+				4B78A50E1D20C8C000BD011F /* Assets.xcassets */,
+				4B78A5101D20C8C000BD011F /* LaunchScreen.storyboard */,
+				4B78A5131D20C8C000BD011F /* Info.plist */,
+				4B78A50B1D20C8C000BD011F /* KeepWebImage.xcdatamodeld */,
+				4B78A4FF1D20C8C000BD011F /* Supporting Files */,
+			);
+			path = KeepWebImage;
+			sourceTree = "<group>";
+		};
+		4B78A4FF1D20C8C000BD011F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4B78A5001D20C8C000BD011F /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4B78A51B1D20CB9700BD011F /* img */ = {
+			isa = PBXGroup;
+			children = (
+				4B78A52A1D20CBA400BD011F /* 1.jpg */,
+				4B78A5281D20CB9E00BD011F /* 6.jpg */,
+				4B78A51C1D20CB9700BD011F /* 2.jpg */,
+				4B78A51D1D20CB9700BD011F /* 3.jpg */,
+				4B78A51E1D20CB9700BD011F /* 4.jpg */,
+				4B78A51F1D20CB9700BD011F /* 5.jpg */,
+				4B78A5201D20CB9700BD011F /* 7.jpg */,
+				4B78A5211D20CB9700BD011F /* bj.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4B78A4FB1D20C8C000BD011F /* KeepWebImage */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4B78A5161D20C8C000BD011F /* Build configuration list for PBXNativeTarget "KeepWebImage" */;
+			buildPhases = (
+				4B78A4F81D20C8C000BD011F /* Sources */,
+				4B78A4F91D20C8C000BD011F /* Frameworks */,
+				4B78A4FA1D20C8C000BD011F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KeepWebImage;
+			productName = KeepWebImage;
+			productReference = 4B78A4FC1D20C8C000BD011F /* KeepWebImage.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4B78A4F41D20C8C000BD011F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "韩新辉";
+				TargetAttributes = {
+					4B78A4FB1D20C8C000BD011F = {
+						CreatedOnToolsVersion = 7.3;
+					};
+				};
+			};
+			buildConfigurationList = 4B78A4F71D20C8C000BD011F /* Build configuration list for PBXProject "KeepWebImage" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4B78A4F31D20C8C000BD011F;
+			productRefGroup = 4B78A4FD1D20C8C000BD011F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4B78A4FB1D20C8C000BD011F /* KeepWebImage */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4B78A4FA1D20C8C000BD011F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B78A5261D20CB9700BD011F /* 7.jpg in Resources */,
+				4B78A5121D20C8C000BD011F /* LaunchScreen.storyboard in Resources */,
+				4B78A5241D20CB9700BD011F /* 4.jpg in Resources */,
+				4B78A50F1D20C8C000BD011F /* Assets.xcassets in Resources */,
+				4B78A5221D20CB9700BD011F /* 2.jpg in Resources */,
+				4B78A5271D20CB9700BD011F /* bj.png in Resources */,
+				4B78A5231D20CB9700BD011F /* 3.jpg in Resources */,
+				4B78A5251D20CB9700BD011F /* 5.jpg in Resources */,
+				4B78A5291D20CB9E00BD011F /* 6.jpg in Resources */,
+				4B78A52B1D20CBA400BD011F /* 1.jpg in Resources */,
+				4B78A50A1D20C8C000BD011F /* Main.storyboard in Resources */,
+				4B78A51A1D20CB8F00BD011F /* photo.html in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4B78A4F81D20C8C000BD011F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4B78A5071D20C8C000BD011F /* ViewController.m in Sources */,
+				4B78A5041D20C8C000BD011F /* AppDelegate.m in Sources */,
+				4B78A5011D20C8C000BD011F /* main.m in Sources */,
+				4B78A50D1D20C8C000BD011F /* KeepWebImage.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4B78A5081D20C8C000BD011F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4B78A5091D20C8C000BD011F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4B78A5101D20C8C000BD011F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4B78A5111D20C8C000BD011F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4B78A5141D20C8C000BD011F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		4B78A5151D20C8C000BD011F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4B78A5171D20C8C000BD011F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = KeepWebImage/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/KeepWebImage",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = tit.GFB.KeepWebImage;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		4B78A5181D20C8C000BD011F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = KeepWebImage/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/KeepWebImage",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = tit.GFB.KeepWebImage;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4B78A4F71D20C8C000BD011F /* Build configuration list for PBXProject "KeepWebImage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4B78A5141D20C8C000BD011F /* Debug */,
+				4B78A5151D20C8C000BD011F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4B78A5161D20C8C000BD011F /* Build configuration list for PBXNativeTarget "KeepWebImage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4B78A5171D20C8C000BD011F /* Debug */,
+				4B78A5181D20C8C000BD011F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		4B78A50B1D20C8C000BD011F /* KeepWebImage.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				4B78A50C1D20C8C000BD011F /* KeepWebImage.xcdatamodel */,
+			);
+			currentVersion = 4B78A50C1D20C8C000BD011F /* KeepWebImage.xcdatamodel */;
+			path = KeepWebImage.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 4B78A4F41D20C8C000BD011F /* Project object */;
+}
